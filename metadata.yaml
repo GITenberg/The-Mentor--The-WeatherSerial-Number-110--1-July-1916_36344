@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38219'
     url: http://www.gutenberg.org/2009/agents/38219
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36344#The-Mentor--The-WeatherSerial-Number-110--1-July-1916
 gutenberg_bookshelf: The Mentor
 gutenberg_issued: '2011-06-07'
 gutenberg_type: Text
