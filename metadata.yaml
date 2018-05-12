@@ -1,0 +1,31 @@
+_repo: The-Mentor--The-WeatherSerial-Number-110--1-July-1916_36344
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Talman, Charles Fitzhugh
+    alias: Talman, C. F. (Charles Fitzhugh)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '38219'
+    url: http://www.gutenberg.org/2009/agents/38219
+description: ''
+gutenberg_bookshelf: The Mentor
+gutenberg_issued: '2011-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weather'
+- !lcsh 'Meteorology'
+- !lcc 'QC'
+title: 'The Mentor: The Weather
+
+  Serial Number 110; 1 July, 1916'
+url: http://www.gutenberg.org/ebooks/36344
